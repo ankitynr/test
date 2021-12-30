@@ -1,3 +1,0 @@
-This is sample file
-Checking for dif
-Checking diff in staged
